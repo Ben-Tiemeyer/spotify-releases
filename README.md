@@ -16,13 +16,13 @@ The tables are relationally linked by the 'id' Primary Key column in the <i>Arti
 
 ### Using these tables, the following views can be created to categorize the newly released music
 <b>New Album Releases</b><br/>
-![AlbumsView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/albums_view.png?raw=true)<br/>
+![AlbumsView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/albums_view.png)<br/>
 <b>New EP Releases</b><br/>
-![EPsView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/eps_view.png?raw=true)<br/>
+![EPsView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/eps_view.png)<br/>
 <b>New Single Releases</b><br/>
-![SinglesView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/singles_view.png?raw=true)<br/>
+![SinglesView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/singles_view.png)<br/>
 <b>Newly Released Songs that the Artist is Featured on</b><br/>
-![FeaturesView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/features_view.png?raw=true)<br/>
+![FeaturesView](https://github.com/Ben-Tiemeyer/spotify-releases/blob/master/images/features_view.png)<br/>
 
 ### The Artist Table can also be sorted by 'Popularity' to find the most popular artists in the population
 
