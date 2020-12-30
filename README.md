@@ -11,3 +11,5 @@ This sqlite DB contains 5 tables:
 - <i>EPs</i>
 - <i>Singles</i>
 - <i>Features</i>
+<br/><br/>
+The tables can be joined together by the 'id' Primary Key column in the <i>Artist</i> table, which corresponds to the column 'artist_id' in every other Table
