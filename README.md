@@ -1,7 +1,7 @@
 # spotify-releases
 A script to query new releases and popularity rankings from Spotify for a group of artists and store in a sqlite DB
 
-<b>Methodology<b/><br/>
+<b>Methodology</b><br/>
 Script loops through each artist within input .txt file and retrieves any Albums, EPs, Singles, or Features that each artist has released on Spotify within the specified time period<br/>
 <br/>
 An associated <i>'spotify.sqlite'</i> DB is created with individual tables for each category of release.
