@@ -20,6 +20,6 @@ The tables are relationally linked by the 'id' Primary Key column in the <i>Arti
 <b>New Single Releases</b><br/>
 <b>Newly Released Songs that the Artist is Featured on</b><br/>
 
-### The Artist Table can also be sorted by 'Popularity' to find the most popular artists
+### The Artist Table can also be sorted by 'Popularity' to find the most popular artists in the population
 
   
