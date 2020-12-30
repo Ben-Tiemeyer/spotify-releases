@@ -10,7 +10,8 @@ This sqlite Database contains 5 tables:
 - <i>Albums</i>
 - <i>EPs</i>
 - <i>Singles</i>
-- <i>Features</i><br/>
+- <i>Features</i>
+<br/>
 The tables are relationally linked by the 'id' Primary Key column in the <i>Artist</i> table, which corresponds to the column 'artist_id' in each other Table
 
 #### Using these tables, the following views can be created to categorize the newly released music
