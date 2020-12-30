@@ -15,3 +15,11 @@ This sqlite Database contains 5 tables:
 The tables are relationally linked by the 'id' Primary Key column in the <i>Artist</i> table, which corresponds to the column 'artist_id' in each other Table
 
 ### Using these tables, the following views can be created to categorize the newly released music
+<b>New Albums Releases</b><br/>
+<b>New Albums Releases</b><br/>
+<b>New Albums Releases</b><br/>
+<b>Newly Released Songs that the Artist is Featured on</b><br/>
+
+### The Artist Table can also be sorted by 'Popularity' to find the most popular artists
+
+  
